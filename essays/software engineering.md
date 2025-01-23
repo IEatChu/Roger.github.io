@@ -18,7 +18,7 @@ I am interested in software engineering because it is needed to create AAA games
 
 ## Skills I Want to Improve
 
-I know the basics of several programming languages, including Java, Python, C, and C++, but I am not confident using them yet. My goal is to deepen my coding skills so I can turn my passion for game design into something real. To achieve this, I want to improve my understanding of how each line of code works and how to write better, more efficient programs. I aim to build my confidence and improve my ability to solve problems with code step by step.
+I know the basics of several programming languages, including Java, Python, C, and C++, through FreeCodeCamp tutorials. However, I am not yet fully confident in using them.t. My goal is to deepen my coding skills so I can turn my passion for game design into something real. To do this, I aim to deepen my understanding of how each line of code functions and learn how to write more efficient, effective programs. I hope to gradually build my confidence and improve my problem-solving abilities with code.
 
 ## Experiences I Hope to Develop
 

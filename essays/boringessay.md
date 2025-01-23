@@ -9,10 +9,9 @@ labels:
   - Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
 
-## Introduction: First Impressions of TypeScript
+## First Impressions of TypeScript
 
 So far, I think TypeScript is pretty interesting. It makes the code a bit easier to read because it adds types, which helps me understand what kind of data I’m working with. But I still have some trouble with the differences between JavaScript and TypeScript. JavaScript feels easier for me because it has many things that are similar to other programming languages, like loops, functions, and conditionals. TypeScript feels more complicated right now, and I’m still learning how to use it properly. 
 
@@ -23,4 +22,4 @@ I definitely learned a lot of new things, especially about modern JavaScript wit
 
 ## Reflecting on the "Athletic Software Engineering" Approach
 
-About the "athletic software engineering" style with the WODs (Workouts of the Day), I didn’t find them very helpful. The time limits made me feel stressed, and I think the pressure to finish quickly didn’t help me learn at all. I prefer when the professor explains things step by step because that helps me understand better. For me, this fast-paced style of learning doesn’t really work.
+About the athletic software engineering style with the WODs (Workouts of the Day), I didn’t find them very helpful. The time limits made me feel stressed, and I think the pressure to finish quickly didn’t help me learn at all. I prefer when the professor explains things step by step because that helps me understand better. For me, this fast-paced style of learning doesn’t really work.

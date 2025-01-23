@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/guinea_pig.jpg
+image: img/blackjack.jpg
 title: "Blackjack Card Game"
 date: 2015
 published: true
@@ -12,11 +12,7 @@ labels:
 summary: "This project involves the development of a Single Player Blackjack game as part of the ICS 111 course."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+
 
 In this projecct, the game allows the player to try to get as close to 21 as possible without going over, while competing against the dealer.
 

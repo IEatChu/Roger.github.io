@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "My Journey in Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2023-01-23
+date: 2025-01-23
 published: True
 labels:
   - Engineering
@@ -12,14 +12,16 @@ labels:
 
 
 
-## Passion for Game Design and the Need for Software Engineering
+## My Interest in Software Engineering
 
-I’ve always loved the idea of designing games, especially big, open-world ones like Grand Theft Auto and PUBG. The ability to create immersive worlds where players can explore and make choices is something I find exciting. However, I know that to create these kinds of games, I need stronger coding skills, and that’s why I want to focus on learning more about software engineering.
+I am interested in software engineering because it is needed to create AAA games, like open-world games such as Grand Theft Auto and PUBG. These games have big, interactive worlds that let players explore and make their own choices. In order to create games like this, I need to learn software engineering, as it involves writing the code that makes everything work. I am excited to learn more and gain the skills I need to build these types of games.
 
-## Skills I Hope to Develop
+## Skills I Want to Improve
 
-In the future, I hope to develop deeper skills in C and C++, particularly in writing more efficient and organized code. I want to understand how each line of code works and improve my problem-solving abilities by learning about algorithms and data structures. These are essential skills for building complex, high-performance games. I also want to gain hands-on experience with game engines, like Unity or Unreal Engine, to understand how they work and how to use them to bring my game ideas to life.
+I know the basics of several programming languages, including Java, Python, C, and C++, but I am not confident using them yet. I have only taken tutorials, and I want to practice more so that I can become better at writing code. I aim to improve my skills in these languages and understand how each line of code works. I want to improve at solving problems with code and writing more efficient programs. 
 
-## Gaining Practical Experience and Collaboration
+## Experiences I Hope to Develop
 
-Additionally, I plan to work on small projects and collaborate with others to get feedback and learn new ways to solve problems. Working with other developers will be a great way to improve my skills and learn faster. Overall, my goal is to deepen my technical knowledge in coding and game development to create the kinds of games I’ve always dreamed of.
+In the future, I want to work on real projects and collaborate with other people. Working with a team is very important in software engineering, and I hope to improve my communication skills and learn how to work together to solve problems. I believe that by collaborating with others, I can learn a lot about software development and how to improve my skills.
+
+AI Usage: I used Grammarly to assist with grammar and overall clarity.

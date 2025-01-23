@@ -23,3 +23,5 @@ labels:
 ## Reflecting on the "Athletic Software Engineering" Approach
 
   About the athletic software engineering style with the WODs (Workouts of the Day), I didn’t find them very helpful. The time limits made me feel stressed, and I think the pressure to finish quickly didn’t help me learn at all. I prefer when the professor explains things step by step because that helps me understand better. For me, this fast-paced style of learning doesn’t really work.
+
+AI Usage: I used Grammarly to assist with grammar and overall clarity.

@@ -10,6 +10,7 @@ labels:
   - Information
 summary: "This is a flyer I created for the Honolulu Community College Computer Lab in 2024."
 ---
+![board](https://github.com/user-attachments/assets/c632d0fa-5028-4543-bf20-d2f0fe0db13d)
 
 
 

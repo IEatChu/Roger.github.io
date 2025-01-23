@@ -21,4 +21,4 @@ summary: "This project involves upgrading the headlights and tail lights of a Co
 
 In this project, I replaced the headlights and taillights on my Corvette with new aftermarket LED lights featuring sequential lighting. The original lights were functional but lacked a modern appearance and didn’t provide the brightness I wanted. The new lights give my Corvette a sleek, stylish look while also making it safer to drive.
 
-The installation took over 6 hours, and I focused on making sure everything works correctly before reassembling the car. This part was important to avoid any issues later. It was tiring, but I knew it would all be worth the effort once I saw the finished result.
+The installation took over six hours, and I made sure to focus on getting every detail right before reassembling the car. This step was crucial to avoid any future issues with the lights. Although it was tiring, I took my time to ensure everything was functioning properly. Once I saw the finished result, I knew all the hard work had been worth it.

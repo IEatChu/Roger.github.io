@@ -20,3 +20,5 @@ summary: "This project involves upgrading the headlights and tail lights of a Co
 
 
 In my project, I replaced the headlights and taillights on my Corvette with new aftermarket LED lights that have sequential lighting. The old lights worked okay, but they didn’t look very modern or bright. I chose these LED lights because they make my car look better and are safer too. The sequential turn signals light up in an eye-catching way, making it much clearer for other drivers to notice when I am making a turn.
+
+The installation took over 6 hours, and I focused on making sure everything works correctly before reassembling the car. This part was important to avoid any issues later. It was tiring, but I knew it would all be worth the effort once I saw the finished result.

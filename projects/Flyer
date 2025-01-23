@@ -1,0 +1,13 @@
+---
+layout: project
+type: project
+image: img/flyer.png
+title: "Honolulu Community College Computer Lab Flyer"
+date: 2024
+published: True
+labels:
+  - Services Offered
+  - Information
+summary: "This is a flyer I created for the Honolulu Community College Computer Lab in 2024."
+---
+

@@ -5,7 +5,7 @@ image: img/headlight.gif
 image: img/taillight.gif
 title: "Vette to Lambo: Headlight & Tail Light Transformation"
 date: 2020
-published: false
+published: true
 labels:
   - DIY Auto Projects
   - Lighting Upgrade

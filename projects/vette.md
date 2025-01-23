@@ -1,8 +1,9 @@
 ---
 layout: project
 type: project
-image: img/headlight.gif
-image: img/taillight.gif
+![headlight](https://github.com/user-attachments/assets/217ff56f-0b9f-4e73-9168-92bb2adaaa5e)
+![Uploading taillight.gif…]()
+
 title: "Vette to Lambo: Headlight & Tail Light Transformation"
 date: 2020
 published: true

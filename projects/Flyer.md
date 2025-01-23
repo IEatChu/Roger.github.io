@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/flyer.png
+image: img/board.png
 title: "Honolulu Community College Computer Lab Flyer"
 date: 2024
 published: True

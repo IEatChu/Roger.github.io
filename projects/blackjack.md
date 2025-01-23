@@ -8,7 +8,7 @@ published: true
 labels:
   - java
   - programming language
---
+
 summary: "This project involves the development of a Single Player Blackjack game as part of the ICS 111 course."
 ---
 

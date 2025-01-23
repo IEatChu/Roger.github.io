@@ -1,9 +1,8 @@
 ---
 layout: project
 type: project
-image: 
-  - img/headlight.gif 
-  - img/taillight.gif
+image: img/headlight.gif
+image: img/taillight.gif
 title: "Vette to Lambo: Headlight & Tail Light Transformation"
 date: 2020
 published: true

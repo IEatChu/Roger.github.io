@@ -9,6 +9,7 @@ labels:
   - Typescript
 ---
 
+![typescript](https://github.com/user-attachments/assets/b1bed622-6a79-4c16-863d-7846f2c14b99)
 
 
 ## First Impressions of TypeScript

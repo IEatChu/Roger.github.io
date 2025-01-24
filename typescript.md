@@ -23,6 +23,8 @@ labels:
 
 ## Reflecting on the "Athletic Software Engineering" Approach
 
-  About the athletic software engineering style with the WODs (Workouts of the Day), I didn’t find them very helpful. The time limits made me feel stressed, and I think the pressure to finish quickly didn’t help me learn at all. I prefer when the professor explains things step by step because that helps me understand better. For me, this fast-paced style of learning doesn’t really work.
+  When it comes to the "Athletic Software Engineering" style with the WODs (Workouts of the Day), I have to say I didn’t find them very helpful. The time limits made me feel stressed, and the pressure to finish quickly actually made it harder for me to learn. I really prefer when my professor explains things step by step. It helps me understand better. For me, this fast-paced way of learning doesn't work well.
+
+In conclusion, my first impressions of TypeScript and the new features of JavaScript are mixed. I like the structure that TypeScript brings, but it takes time for me to get used to it. Also, I would really benefit from a learning environment that is less stressful, where I can understand everything clearly.
 
 AI Usage: I used Grammarly to assist with grammar and overall clarity.

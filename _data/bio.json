@@ -15,8 +15,8 @@
   },
   "interests": [
     { "name": "Gaming"},
-    { "name": "Software Engineering"},
-    { "name": "Game Developing"}
+    { "name":"Software Engineering"},
+    { "name":"Game Developing"}
   ],
   "skills": [
     {

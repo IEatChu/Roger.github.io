@@ -32,7 +32,7 @@ The user asks, “Is there a configuration file I can update to tell the JRE to 
 * Research Shown:
 The user explains that they have already tried a temporary fix by changing the JAVA_OPTS variable with the -Duser.timezone=US/Pacific setting. By sharing their previous attempts, the user asks for more advanced suggestions, showing they have thought about the issue and need a permanent solution.
 
-You can see the original question "https://stackoverflow.com/questions/6392/java-time-zone-is-messed-up"
+You can see the original question [here: Java Time Zone is messed up](https://stackoverflow.com/questions/6392/java-time-zone-is-messed-up)
 
 ## Example of a Not-so-Smart Question
 
@@ -47,7 +47,7 @@ The phrase "beginner-friendly" can mean many things to different people. Does th
 * No Show of Research:
 The user does not mention any IDEs they have considered, like Notepad++ or jEdit. Including this information would show that they have done some initial research and are looking for more suggestions.
 
-You can see the original question "https://stackoverflow.com/questions/71786/windows-ide-editor-for-a-beginner"
+You can see the original question [here: Windows IDE / editor for a beginner](https://stackoverflow.com/questions/71786/windows-ide-editor-for-a-beginner)
 
 ## AI Usage
 This essay was assisted by an AI tool ChatGPT and Grammarly. 

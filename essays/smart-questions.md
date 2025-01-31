@@ -41,8 +41,8 @@ On the other hand, the question titled “Windows IDE/editor for a beginner.” 
 * Lack of Important Details:
 The question does not say which programming languages the beginner will use. This is important for choosing the right IDE. For instance, a Python beginner may need different tools than someone just starting with Perl.
 
-* Too General and Vague:
-The phrase "beginner-friendly" can mean many things to different people. Does the person want an editor with a simple design, or one that has built-in tutorials? Without this clarity, the question is too vague. Respondents may suggest solutions that do not fit the user's real needs.
+* Incomplete Initial Post:
+The mention of Perl and R is certainly valuable, but it comes after the question was posted. When this key detail is added later, it can confuse people who have already started answering without knowing which languages are being used. It would be better if this information was included at the beginning because it greatly affects what kind of IDE or text editor would be suggested.
 
 * No Show of Research:
 The user does not mention any IDEs they have considered. Including this information would show that they have done some initial research and are looking for more suggestions.

@@ -15,7 +15,7 @@ labels:
 
 ## The Importance of Asking the Right Questions
 
-Asking the right questions is a very important skill for software engineers. It is just as necessary as having strong technical knowledge. The way we ask questions can change the answers we get and also how fast we can solve problems. Good communication is critical, especially when we need help or want to work with others. A clear and well-structured question can increase the chances of getting useful and specific answers.
+Asking the right questions is a very important skill for software engineers. It is just as necessary as having strong technical knowledge. The way we ask questions can change the answers we get and also how fast we can solve problems. Good communication is critical, especially when we need help from others. A clear and well-structured question can increase the chances of getting useful and specific answers.
 
 ## What Makes a Question "Smart"?
 
@@ -27,7 +27,7 @@ An example of a smart question on StackOverflow has the title "Java Time Zone is
 The user says they are using a Tomcat application on Ubuntu Hardy Heron. They mention that the default time zone is "GMT-08:00" instead of the Pacific time zone. This context is important for those who want to help.
 
 * Specific Question:
-The user asks, “Is there a configuration file I can update to tell the JRE to use Pacific with all the associated daylight savings time information?” This question is focused and clearly shows what they need—help with a configuration solution, not a coding one.
+The user asks, “Is there a configuration file I can update to tell the JRE to use Pacific with all the associated daylight savings time information?” This question is focused and clearly shows what they need help with a configuration solution, not a coding one.
 
 * Research Shown:
 The user explains that they have already tried a temporary fix by changing the JAVA_OPTS variable with the -Duser.timezone=US/Pacific setting. By sharing their previous attempts, the user asks for more advanced suggestions, showing they have thought about the issue and need a permanent solution.
@@ -45,7 +45,7 @@ The question does not say which programming languages the beginner will use. Thi
 The phrase "beginner-friendly" can mean many things to different people. Does the person want an editor with a simple design, or one that has built-in tutorials? Without this clarity, the question is too vague. Respondents may suggest solutions that do not fit the user's real needs.
 
 * No Show of Research:
-The user does not mention any IDEs they have considered, like Notepad++ or jEdit. Including this information would show that they have done some initial research and are looking for more suggestions.
+The user does not mention any IDEs they have considered. Including this information would show that they have done some initial research and are looking for more suggestions.
 
 You can see the original question [here: Windows IDE / editor for a beginner](https://stackoverflow.com/questions/71786/windows-ide-editor-for-a-beginner)
 

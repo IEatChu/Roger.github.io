@@ -30,7 +30,7 @@ The user says they are using a Tomcat application on Ubuntu Hardy Heron. They me
 The user asks, “Is there a configuration file I can update to tell the JRE to use Pacific with all the associated daylight savings time information?” This question is focused and clearly shows what they need help with a configuration solution, not a coding one.
 
 * Research Shown:
-The user explains that they have already tried a temporary fix by changing the JAVA_OPTS variable with the -Duser.timezone=US/Pacific setting. By sharing their previous attempts, the user asks for more advanced suggestions, showing they have thought about the issue and need a permanent solution.
+The user explains that they have already tried a temporary fix by updating the JAVA_OPTS and CATALINA_OPTS, which worked as a workaround. This shows that they are actively troubleshooting and seeking a permanent solution.
 
 You can see the original question [here: Java Time Zone is messed up](https://stackoverflow.com/questions/6392/java-time-zone-is-messed-up)
 

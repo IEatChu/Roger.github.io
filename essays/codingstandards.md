@@ -12,6 +12,8 @@ labels:
   - Error Detection
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/CodingStandards.jpeg">
+
 ## The Importance of Coding Standards 
 
 Coding standards are crucial for anyone learning a programming language. They not only help us avoid common mistakes but also encourage us to write cleaner and more organized code. By following clear guidelines, we can enhance the readability and structure of our code, making it easier for ourselves and others to understand and maintain. 

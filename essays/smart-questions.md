@@ -49,5 +49,4 @@ The user does not mention any IDEs they have considered. Including this informat
 
 You can see the original question [here: Windows IDE / editor for a beginner](https://stackoverflow.com/questions/71786/windows-ide-editor-for-a-beginner)
 
-## AI Usage
-This essay was assisted by an AI tool ChatGPT and Grammarly. 
+AI Usage: This essay was assisted by an AI tool ChatGPT and Grammarly. 

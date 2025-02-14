@@ -24,4 +24,6 @@ After using ESLint with VSCode for a week, I’ve found it to be incredibly help
 
 ## ESLint’s Automatic Fixing: A Time-Saving Feature
 
-I also appreciate that ESLint can automatically fix some of the common mistakes. This feature saves me a lot of time, because I don’t have to search my code for little errors or try to remember every single rule. Instead, I can spend more time understanding how my code works 
+I also appreciate that ESLint can automatically fix some of the common mistakes. This feature saves me a lot of time because I don’t have to search my code for little errors or try to remember every single rule. Instead, I can spend more time understanding how my code works 
+
+AI Usage: I used Grammarly to assist with grammar and overall clarity.

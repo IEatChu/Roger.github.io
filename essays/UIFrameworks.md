@@ -12,7 +12,7 @@ labels:
   - Code Efficiency
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/rebuid.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/rebuild.png">
 
 
 ## What is a UI Framework?

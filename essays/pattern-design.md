@@ -6,8 +6,11 @@ title: "How I Code Like a Chess Player"
 date: 2025-04-24
 published: True
 labels:
-  - Engineering
-  - passion
+  - design-patterns
+  - strategy
+  - observer-pattern
+  - factory-pattern
+  - MVC
 ---
 
 <img width="600px" class="rounded float-start pe-4" src="../img/chess-pattern.jpg">
@@ -35,4 +38,6 @@ The more I build apps, the more I see how helpful design patterns are. You don�
 
 ## Conclusion: The Strategy Behind Every Line of Code
 So if someone asks me, “What are design patterns?” I’ll say they’re smart strategies that help developers write better code, just like chess strategies help players win the game.
+
+AI Usage: ChatGPT and Grammarly
 

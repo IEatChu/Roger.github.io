@@ -29,6 +29,7 @@ Another pattern I used was the observer pattern. I used it to send real-time upd
 ### MVC (Model-View-Controller): Organizing the Board
 Lastly, I used MVC to organize my app’s code. The model is like the chessboard (where the data lives). The view is what the user sees. The controller is the player making the moves. Each part has a clear job, and they work together smoothly.
 
+AI Usage: ChatGPT and Grammarly
 ## How Design Patterns Help Me Code Smarter
 The more I build apps, the more I see how helpful design patterns are. You don’t follow them exactly. You learn them and then use them in your own way. Just like in chess, you use strategy, not guessing.
 

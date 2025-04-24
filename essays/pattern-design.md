@@ -18,7 +18,7 @@ labels:
 
 # Design Patterns: My Secret Chess Moves
 
-## Introduction: The Game of Code
+## The Game of Code
 Writing code is a lot like playing chess. Every project begins like an empty board, and every move (or line of code) is important. Experienced developers, like good chess players, don’t guess every time. They use smart patterns that have worked before. These are called design patterns. They are reusable solutions for common coding problems.
 
 ## My Experience with Design Patterns

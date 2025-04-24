@@ -23,14 +23,14 @@ Writing code is a lot like playing chess. Every project begins like an empty boa
 
 ## My Experience with Design Patterns
 
-### Factory Pattern: Choosing the Right Piece
-I used some of these patterns in my app, *Study Buddy*, which helps students plan study sessions. When I needed to create different types of users (like students and admins), I used the factory pattern. It was like choosing which piece to use in a certain situation. Do I need a knight, bishop, or rook? The factory gave me the right “piece” for the job.
+I used some of these patterns in my app, *Study Buddy*, which helps students plan study sessions. Here are a few examples:
 
-### Observer Pattern: Reacting to the Moves
-Another pattern I used was the observer pattern. I used it to send real-time updates inside the app. For example, when a user creates a new study session, other parts of the app would react and update. It reminded me of chess. When one piece moves, it can affect the whole board.
+- **Factory Pattern**: I used this when I needed to create different types of users (like students and admins). It was like choosing which piece to use in a certain situation. Do I need a knight, bishop, or rook? The factory gave me the right “piece” for the job.
 
-### MVC (Model-View-Controller): Organizing the Board
-Lastly, I used MVC to organize my app’s code. The model is like the chessboard (where the data lives). The view is what the user sees. The controller is the player making the moves. Each part has a clear job, and they work together smoothly.
+- **Observer Pattern**: I used this to send real-time updates inside the app. For example, when a user creates a new study session, other parts of the app would react and update. It reminded me of chess—when one piece moves, it can affect the whole board.
+
+- **MVC (Model-View-Controller)**: I used this pattern to organize my app’s code. The model is like the chessboard (where the data lives). The view is what the user sees. The controller is the player making the moves. Each part has a clear job, and they work together smoothly.
+
 
 AI Usage: ChatGPT and Grammarly
 ## How Design Patterns Help Me Code Smarter

@@ -35,5 +35,78 @@ For writing essays, both Grammarly and ChatGPT helped me improve my responses. G
 
 ###5. Final project
 
+For my final project, I used ChatGPT in several helpful ways. It assisted me in fixing bugs, adding features I didn’t know how to implement, and understanding problems I couldn’t figure out on my own. By following its step-by-step guidance, I was able to solve issues and get the results I needed. I also used it to help design the project logo. After sharing some ideas, it suggested styles that matched my vision perfectly.
+
+###6. Learning a concept / tutorial
+
+When I had trouble understanding certain materials, I used ChatGPT to break them down into simpler steps. It helped explain things in a way that made more sense to me.
+
+###7. Answering a question in class or in Discord
+
+I used ChatGPT to generate new ideas I hadn’t thought of. It gave me different ways to look at the problem, which helped me come up with better answers.
+
+###8. Asking or answering a smart-question
+
+ I used Grammarly to check my grammar and spelling. It helped me avoid errors and made my writing clearer. Sometimes, when I got stuck on how to continue a sentence or thought, Grammarly suggested ways to improve and keep the writing flowing. 
+
+###9. Coding example e.g. “give an example of using Underscore .pluck
+
+I used ChatGPT to explain how the .pluck method works in Underscore and when to use it. It helped me understand that .pluck is used to extract a specific property.
+
+###10. Explaining code
+
+When I needed help explaining code, I used ChatGPT to break down complex parts and make them easier to understand. I would share the code with it, and it would explain what each part was doing, step by step.
+
+###11. Writing code
+
+I ussed ChatGPT for suggestions. It helped me by showing examples of how to write certain code blocks or explaining which approach would be the most efficient. It also provided me with quick fixes for syntax errors, which saved me time and helped me avoid getting stuck.
+
+###12. Documenting code 
+
+I used ChatGPT to help describe what certain blocks of code were doing. Sometimes, it was tricky to explain complex logic, so I would ask ChatGPT to break down long descriptions into simpler, more understandable language. 
+
+###13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>
+
+I used GitHub Copilot to help identify and fix issues in my code. When I was unsure about errors or needed help with things like ESLint fixes, Copilot offered suggestions and solutions. It made debugging quicker and easier by suggesting fixes directly within the code.
+
+###14. Other uses in ICS 314 not listed
+
+ I used ChatGPT to help me set up a GitHub organization and deploy projects to Vercel. It also guided me on how to properly link environment variables to Vercel.
+
+###III. Impact on Learning and Understanding
+
+Using AI has made learning software engineering much easier for me. When I didn’t understand something, AI tools like ChatGPT and GitHub Copilot helped explain things in simple terms. They broke down complex concepts and helped me understand the logic behind the code. This saved me time and made learning more efficient.
+
+###IV. Practical Applications
+
+I used AI tools in ICS 311 to help with complex homework assignments and reading. AI helped me understand difficult concepts by breaking them down into simpler explanations and offering examples. 
+
+###V. Challenges and Opportunities:
+
+One challenge I encountered with AI in the course was that sometimes the answers it gave didn’t fully solve the problem. This was frustrating, especially when I was relying on it to fix something quickly. Another challenge was figuring out how to ask the right question. If I didn’t explain the problem clearly, the response often wasn’t helpful. Even with these issues, I see a lot of potential for using AI more in software engineering education. For example, AI could give students helpful hints instead of full answers, encouraging problem-solving while still providing support.
+
+###VI. Comparative Analysis
+
+In my experience, traditional teaching methods like lectures and textbooks are helpful, but sometimes they don’t give me the support I need when I get stuck or don’t fully understand a topic. On the other hand, AI-enhanced approaches like using ChatGPT have been much more interactive and flexible. With AI, I can ask questions anytime and get explanations that are easier to understand, often with examples that match what I’m working on. This keeps me more engaged and helps me learn at my own pace.
+
+In terms of knowledge retention, AI tools have helped me remember concepts better because they break things down in simple ways and explain why something works, not just what the answer is. It’s easier to understand and remember when the explanation makes sense to me.
+
+For skill development, especially in coding, AI has been really useful. When I’m writing code and I’m not sure how to start or I hit a bug, I can ask for help and get quick, practical suggestions. This lets me practice more and build my problem-solving skills in a real way, rather than just following examples in class.
+
+###VII. Future Considerations
+
+In the future, AI will likely play a bigger role in software engineering education, making learning more personalized and interactive. AI could help students learn at their own pace, providing instant feedback and guiding them through complex problems. One potential advancement is AI being able to replace textbooks, offering real-time explanations and up-to-date resources that match the student's learning style. However, there will be challenges, such as ensuring the accuracy of AI-generated answers and preventing students from becoming too reliant on it. To improve, AI tools could be designed to encourage more problem-solving and critical thinking, providing hints or guidance without giving away the full solution.
+
+###VIII. Conclusion:
+
+In conclusion, AI has really helped me in my Software Engineering course. It’s been great for quickly solving problems, explaining difficult concepts, and assisting with WODs challenge. It made understanding things much easier, especially when I would have struggled on my own. However, there were a few times when the answers I got were off, or I found it hard to ask the right questions to get a helpful response. Despite these minor issues, I see a lot of potential for AI in education. For future courses, I think AI could offer more personalized support, giving hints and helping students figure things out on their own instead of just providing answers. It could also improve teamwork on projects by making collaboration smoother. 
+
+
+
+
+
+
+
+
 
 AI Usage: I used Grammarly to assist with grammar and overall clarity.

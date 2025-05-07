@@ -16,7 +16,7 @@ labels:
 ## I. Introduction
 
 Artificial Intelligence is becoming an important part of education. It helps students learn by providing quick feedback and support, making it easier to understand difficult subjects. In Software Engineering, AI is especially useful because it can simplify complex coding concepts and improve efficiency.
-AI tools serve as study partners in Software Engineering, aiding students in tackling programming challenges like WODs, homework, and projects while offering instant support. With AI, learners can gain a clearer understanding of coding logic, receive real-time feedback, and improve their workflow. I have used tools like ChatGPT and GitHub Copilot to enhance my efficiency.
+AI tools serve as study partners in Software Engineering, aiding students in tackling programming challenges like WODs, assignments, and projects while offering instant support. With AI, learners can gain a clearer understanding of coding logic, receive real-time feedback, and improve their workflow. I have used tools like ChatGPT and GitHub Copilot to enhance my efficiency.
 
 ## II. Personal Experience with AI
 

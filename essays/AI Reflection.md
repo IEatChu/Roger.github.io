@@ -10,7 +10,7 @@ labels:
   - passion
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/Ai.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/AI.jpg">
 
 
 ## I. Introduction

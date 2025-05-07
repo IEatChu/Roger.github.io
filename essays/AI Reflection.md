@@ -65,7 +65,7 @@ I ussed ChatGPT for suggestions. It helped me by showing examples of how to writ
 
 I used ChatGPT to help describe what certain blocks of code were doing. Sometimes, it was tricky to explain complex logic, so I would ask ChatGPT to break down long descriptions into simpler, more understandable language. 
 
-### 13. Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>
+### 13. Quality assurance e.g.
 
 I used GitHub Copilot to help identify and fix issues in my code. When I was unsure about errors or needed help with things like ESLint fixes, Copilot offered suggestions and solutions. It made debugging quicker and easier by suggesting fixes directly within the code.
 

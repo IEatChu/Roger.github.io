@@ -1,0 +1,39 @@
+---
+layout: essay
+type: essay
+title: "How AI Shaped My Learning in ICS 314"
+# All dates must be YYYY-MM-DD format!
+date: 2025-05-06
+published: True
+labels:
+  - Engineering
+  - passion
+---
+
+![game-development](https://github.com/user-attachments/assets/17864de9-0e6c-4c12-a4d6-f28fbf6d3354)
+
+
+## I. Introduction
+
+Artificial Intelligence is becoming an important part of education. It helps students learn by providing quick feedback and support, making it easier to understand difficult subjects. In Software Engineering, AI is especially useful because it can simplify complex coding concepts and improve efficiency.
+AI tools serve as study partners in Software Engineering, aiding students in tackling programming challenges like WODs, homework, and projects while offering instant support. With AI, learners can gain a clearer understanding of coding logic, receive real-time feedback, and improve their workflow. I have used tools like ChatGPT and GitHub Copilot to enhance my efficiency.
+
+## II. Personal Experience with AI
+
+###1. Experience WODs (e.g. E18)
+For the E18: Experience Functional Programming WOD, I used ChatGPT to help me understand the problem and find a way to solve it without using loops or for/while statements. I asked ChatGPT to explain how I could approach the task using functional programming concepts like map, reduce, and filter, which are typical methods in functional programming.
+
+###2. In-class Practice WODs 
+For in-class practice WODs, I used ChatGPT to help me fix bugs and figure out how to tackle each step of the WODs. ChatGPT guided me through the process, providing quick solutions for debugging and offering suggestions on how to approach each step.
+
+###3. In-class WODs
+For in-class WODs, I did use ChatGPT to help with coding. Since these exercises are timed, I couldn’t afford to waste time debugging or fixing errors on my own. ChatGPT helped speed up the process by suggesting solutions and fixing bugs quickly, which allowed me to complete the WODs on time
+
+###4. Essays
+
+For writing essays, both Grammarly and ChatGPT helped me improve my responses. Grammarly checked my spelling, grammar, and sentence structure, ensuring my writing was polished. ChatGPT was great for brainstorming ideas, refining my answers, and explaining complex concepts in simpler terms.
+
+###5. Final project
+
+
+AI Usage: I used Grammarly to assist with grammar and overall clarity.

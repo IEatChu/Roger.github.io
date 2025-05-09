@@ -25,5 +25,3 @@ One benefit was that it allowed me to keep my teammates informed. If I was behin
 ## How did you track your actual effort? How accurate was it?
 
 I would check the time before starting and after finishing a task, then later report it to my teammate, who keeps track of our records in a spreadsheet. I tried to only count the time I was actually working, so I think it was mostly accurate maybe around 90-95% of the time. While I didn't use a specific time-tracking tool, this method gave me a clear idea of how long each task took and helped me stay on top of my progress.
-
-AI Usage: This essay was assisted by an AI tool ChatGPT and Grammarly. 

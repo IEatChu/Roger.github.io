@@ -11,7 +11,7 @@ published: True
 
 ## How did you make your effort estimates?
 
-I made my effort estimates based on previous assignments and tasks I had worked on. For example, in the WOD exercise assignment, I noticed that each branch of the task typically took between 30 minutes to 45 hour to complete. Based on that experience, I assumed that similar tasks in my current project would take the same amount of time. For instance, when working on tasks like adding the change password page or fixing the mobile layout, I estimated that they would take around the same time, between 30 minutes to 1 hour per branch of the task. However, some tasks ended up taking longer than expected due to unexpected challenges or additional steps that came up during the process.
+I made my effort estimates based on previous assignments and tasks I had worked on. For example, in the WOD exercise assignment, I noticed that each branch of the task typically took between 30 minutes to 45 minutes to complete. Based on that experience, I assumed that similar tasks in my current project would take the same amount of time. For instance, when working on tasks like adding the change password page or fixing the mobile layout, I estimated that they would take around the same time, between 30 minutes to 1 hour per branch of the task. However, some tasks ended up taking longer than expected due to unexpected challenges or additional steps that came up during the process.
 
 ## Even though your estimates were always off, was there any benefit from making effort estimates in advance?
 

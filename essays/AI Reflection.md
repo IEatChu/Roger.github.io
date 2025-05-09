@@ -101,12 +101,3 @@ In the future, AI will likely play a bigger role in software engineering educati
 
 In conclusion, AI has really helped me in my Software Engineering course. It’s been great for quickly solving problems, explaining difficult concepts, and assisting with WODs challenge. It made understanding things much easier, especially when I would have struggled on my own. However, there were a few times when the answers I got were off, or I found it hard to ask the right questions to get a helpful response. Despite these minor issues, I see a lot of potential for AI in education. For future courses, I think AI could offer more personalized support, giving hints and helping students figure things out on their own instead of just providing answers. It could also improve teamwork on projects by making collaboration smoother. 
 
-
-
-
-
-
-
-
-
-AI Usage: I used Grammarly to assist with grammar and overall clarity.

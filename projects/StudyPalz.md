@@ -35,7 +35,7 @@ For the **Study Palz** project, my team and I built a website designed to help I
 
 - **Home Page, Navbar, and Footer:** I was responsible for designing and building the entire layout of the home page, along with the navigation bar and footer. I made sure that everything was intuitive and easy to navigate.
   
-- **Profile Page:** I created the profile page from scratch, allowing users to input their details, add their classes, and upload a profile picture. I also made sure the profile image was displayed as an icon on the home page once uploaded, so users could easily recognize each other.
+- **Profile Page:** I created the profile page from scratch, allowing users to input their first and last name, add their classes, and upload a profile picture. I also made sure the profile image was displayed as an icon on the home page once uploaded, so users could easily recognize each other.
 
 - **Sign-In, Sign-Up, and Change Password Pages:** I built the **Change Password** page myself and added bounce-in animations to the **Sign-In** and **Sign-Up** pages to make the user experience smoother and more engaging.
 

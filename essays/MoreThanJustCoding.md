@@ -10,7 +10,7 @@ labels:
   - passion
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/AI.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/SoftwareEngineer.jpg">
 
 ### Discovering What Software Engineering Really Means
 

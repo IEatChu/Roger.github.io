@@ -21,7 +21,7 @@ summary: "My team developed Study Palz, a web app that helps ICS students at UH 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-[Read the full project overview](https://github.com/study-palz/study-palz.github.io/blob/main/index.md)
+[Read the full project overview](https://github.com/study-palz/study-palz.github.io/)
 
 
 ```cpp

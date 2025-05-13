@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/home-guide.png
 title: "StudyPalz"
 date: 2025
 published: True
@@ -16,9 +16,11 @@ summary: "My team developed Study Palz, a web app that helps ICS students at UH 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/home-guide.png" class="img-thumbnail" >
+  <img width="200px" src="../img/profile-guide.png" class="img-thumbnail" >
+  <img width="200px" src="../img/about-guide.png" class="img-thumbnail" >
+  <img width="200px" src="../img/contact-guide.png" class="img-thumbnail" >
+  <img width="200px" src="../img/change-password-guide.png" class="img-thumbnail" >
 </div>
 
 [Read the full project overview](https://study-palz.github.io/)

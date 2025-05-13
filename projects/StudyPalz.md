@@ -12,7 +12,7 @@ labels:
   - web-application
   - team-project
   - nextauth
-summary: "My team developed Study Palz, a web app that helps ICS students at UH Mānoa organize and join in-person study groups."
+summary: "My team developed Study Palz, a user-friendly website designed to help ICS students at UH Mānoa easily organize and participate in in-person study groups, fostering collaboration and academic success."
 ---
 
 <div class="text-center p-4">

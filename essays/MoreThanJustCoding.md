@@ -8,6 +8,9 @@ published: True
 labels:
   - Engineering
   - passion
+  - project-management
+  - issue-driven-project-management
+  - configuration-management
 ---
 
 <img width="400px" class="rounded float-start pe-4" src="../img/SoftwareEngineer.jpg">

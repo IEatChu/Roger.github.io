@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "More Than Just Coding: What I Learned About Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2025-05-012
+date: 2025-05-12
 published: True
 labels:
   - Engineering
